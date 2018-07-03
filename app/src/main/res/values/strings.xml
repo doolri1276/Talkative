@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Talkative</string>
+    <string name="splash_message">splash_message</string>
+    <string name="splash_server_check">splash_server_check</string>
+    <string name="splash_main_color">splash_main_color</string>
+</resources>

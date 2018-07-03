@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "396942809640",
+    "firebase_url": "https://talkative-419cf.firebaseio.com",
+    "project_id": "talkative-419cf",
+    "storage_bucket": "talkative-419cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396942809640:android:5fefc0887b8cb9fe",
+        "android_client_info": {
+          "package_name": "com.snownaul.talkative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396942809640-i6sbqu7anfp20v66jhjdk3orbrb7vcdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snownaul.talkative",
+            "certificate_hash": "f6f362a12505ac13a5d995e5348ff9195055e3b8"
+          }
+        },
+        {
+          "client_id": "396942809640-efmfuljdaqboq2gkla7kl8bfpt1qcl40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snownaul.talkative",
+            "certificate_hash": "91484da6bc21be94f2e583b0894b5fa2e5645bb7"
+          }
+        },
+        {
+          "client_id": "396942809640-f52154v4911p0vebcvhj4nif5t1t73ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjljv6ghpP3qmO_cKhJmU71bdnPtykbUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396942809640-f52154v4911p0vebcvhj4nif5t1t73ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
